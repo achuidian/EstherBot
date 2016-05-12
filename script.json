@@ -1,8 +1,8 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Aaron, an Engineer in Los Angeles.\n![aaron](https://www.facebook.com/photo.php?fbid=10105328914519406&l=28f198fba9)\nWant to know more about bots or learn about Aaron? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Aaron](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
-    "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
+    "BOT": "Hi there!\nI’m the personal bot of Aaron, an Engineer in Los Angeles.\n![aaron](https://github.com/achuidian/EstherBot/img/920615_10105328914519406_6390907078853303495_o.jpg)\nWant to know more about bots or learn about Aaron? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Aaron](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
+    "HELLO": "Hey, I'm so glad you set AaronBot up! Do you want to tell Aaron that you're talking to her bot? %[Tell her](postback:twitter)",
+    "TELL HER": "Let's tweet @achuidian so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Aaron](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back."
+    "DISCONNECT": "Roger that, AaronBot is back."
 }
